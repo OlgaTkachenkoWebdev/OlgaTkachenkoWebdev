@@ -11,7 +11,7 @@ I am a full-stack web developer that recently graduated from Lighthouse Labs Web
 </a>
 <br>
 
-<a href="mailto:olga.tkachenko.webdev@gmail.com?subject=Found%20you%20on%20Github!&body=Hi%20Kat%2C" target="_blank">
+<a href="mailto:olga.tkachenko.webdev@gmail.com?subject=Found%20you%20on%20Github!&body=Hi%20Olga%2C" target="_blank">
 <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="margin-bottom: 5px;">
 </a>
 <br>
