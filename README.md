@@ -16,39 +16,52 @@ I am a full-stack web developer that recently graduated from Lighthouse Labs Web
 </a>
 <br>
 
-
-
 <h2 align="center">Tech Stack and Tools</h2>
 
 <p align="center">
-
+  
+ <h3><!--:bookmark_tabs: -->Languages</h3>
+ <a href="#/"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
+ 
+ <h3><!--:books: -->Frameworks, Libraries & Environments</h3>
+ 
+ <a href="#/"><img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-339933?logo=node.js&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge"></a>
+ <a href="#/"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"></a>
+ 
+<a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
+![AJAX](https://img.shields.io/badge/ajax-%23316192.svg?style=for-the-badge&logo=ajax&logoColor=white)](https://en.wikipedia.org/wiki/Ajax_(programming))
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="#/"><img alt="Sass" src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge"></a>
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Node.JS" src="https://img.shields.io/badge/-Node.JS-339933?logo=node.js&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?logo=nodemon&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Sass" src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"></a>
-<a href="#/"><img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"></a>
 <a href="#/"><img alt="ESlint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"></a>
-</p>
 
+<h3><!--:ballot_box_with_check: -->Testing</h3>
+
+<a href="#/"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"></a>
+
+<h3><!--:open_file_folder: -->Systems, CMS & Databases</h3>
+
+<a href="#/"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"></a>
+[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=#F05032)](https://git-scm.com/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+</p>
 
 <h2 align="center">What I am learning</h2>
 <p align="center">
@@ -57,8 +70,6 @@ I am a full-stack web developer that recently graduated from Lighthouse Labs Web
 <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
 </p>
-
-
 
 <h2 align="center">What I want to learn next</h2>
 <p align="center">
@@ -74,5 +85,9 @@ I am a full-stack web developer that recently graduated from Lighthouse Labs Web
 <a href="#/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <a href="#/"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"></a>
 <a href="#/"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></a>
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![ActiveRecord](https://img.shields.io/badge/-ActiveRecord-CC0000?style=for-the-badge&logo=ActiveRecord&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html)
+[![Chat Engine](https://img.shields.io/badge/-Chat%20Engine-A30701?style=for-the-badge&logo=livechat&logoColor=white)](https://chatengine.io/)
+[![Twilio](https://img.shields.io/badge/-Twilio-white?style=for-the-badge&logo=twilio&logoColor=#F22F46)](https://www.twilio.com/)
 
 </p>
