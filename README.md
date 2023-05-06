@@ -36,7 +36,7 @@ I am a full-stack web developer that recently graduated from Lighthouse Labs Web
  <a href="#/"><img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"></a>
  
 <a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
-![AJAX](https://img.shields.io/badge/ajax-%23316192.svg?style=for-the-badge&logo=ajax&logoColor=white)](https://en.wikipedia.org/wiki/Ajax_(programming))
+![AJAX](https://img.shields.io/badge/ajax-%23316192.svg?style=for-the-badge&logo=ajax&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <a href="#/"><img alt="Sass" src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge"></a>
 
